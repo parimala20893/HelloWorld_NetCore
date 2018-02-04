@@ -1,0 +1,9 @@
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\bin\Debug\netcoreapp1.1\HelloWorld_NetCore.deps.json
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\bin\Debug\netcoreapp1.1\HelloWorld_NetCore.runtimeconfig.json
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\bin\Debug\netcoreapp1.1\HelloWorld_NetCore.runtimeconfig.dev.json
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\bin\Debug\netcoreapp1.1\HelloWorld_NetCore.dll
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\bin\Debug\netcoreapp1.1\HelloWorld_NetCore.pdb
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\obj\Debug\netcoreapp1.1\HelloWorld_NetCore.csprojResolveAssemblyReference.cache
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\obj\Debug\netcoreapp1.1\HelloWorld_NetCore.AssemblyInfo.cs
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\obj\Debug\netcoreapp1.1\HelloWorld_NetCore.dll
+E:\HelloWorld_Core\HelloWorld_NetCore\HelloWorld_NetCore\obj\Debug\netcoreapp1.1\HelloWorld_NetCore.pdb
